@@ -1,1 +1,9 @@
-
+.item{
+    object-fit: cover;
+}
+#myCarousel{
+    width: 119%;
+    margin-left: -9.8%;
+    right:0%;
+    
+}
