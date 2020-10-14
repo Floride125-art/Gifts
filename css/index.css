@@ -7,3 +7,34 @@
     right:0%;
     
 }
+.row{
+    margin-top:2%
+}
+.row h2{
+    text-align: center;
+    font-size:50px;
+    margin-bottom: 2%;
+    font-weight: bold;
+}
+.row p{
+    font-size: 18px;
+}
+.row h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.card{
+    width: 99%;
+}
+
+.Zoom{
+    border-radius: 5px; 
+  
+    margin-left: 1%;
+}
+.Zoom:hover{
+ -ms-transform: scale(1.07); 
+-webkit-transform: scale(1.07); 
+transform: scale(1.07);
+border-radius: 5px; 
+}
