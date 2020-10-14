@@ -144,3 +144,49 @@ border-radius: 5px;
 .thumbnail.active .hvrbox-text_mobile {
     display: block;
 }
+.jumbotron{
+    background-image:  linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/breaks.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60%;
+    
+}
+.theForm{
+    padding: 2%;
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+.theForm h2{
+    color:white;
+    margin-bottom: 2%;
+  }
+  #inName input,
+  #inEmail input,
+  #inMessage input{
+    background:none;
+    border: gray groove;
+    color: #ffffff;
+  }
+  .form-group textarea{
+    background: none;
+    border:gray groove;
+    color: #ffffff;
+    width: 90%;
+  
+  }
+  
+.iconz a{
+    margin:20px 10px;  
+}
+.iconz i{
+    color:white;
+    align-items: center;
+    
+
+}
+
+.iconz a:hover{
+    box-shadow:2px 2px 12px rgba(255, 254, 254, 0.856);
+    transition:all ease 0.5s;
+}
+
