@@ -19,11 +19,11 @@ This is a group project whereby five members of team have tried their best to wo
 * You only need the live link to access our page.
 * You can clone this repository to make your own changes by Open terminal by Ctrl+ Alt + T, clone https://github.com/Floride125-art/Gifts, Type code .to open vs code editor or atom . depending on which editor you are using!
 ####  Contact information
-Email:buwase120@gmail.com
-Email:ftuyisenge120@gmail.com
-Email:skibondo920@gmail.com
-Email:dniyodukorera120@gmail.com
-Email:apacifique020@daviscollege.com
+* Email:buwase120@gmail.com
+* Email:ftuyisenge120@gmail.com
+* Email:skibondo920@gmail.com
+* Email:dniyodukorera120@gmail.com
+* Email:apacifique020@daviscollege.com
 #### License
  *MIT License*
 The MIT License
