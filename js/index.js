@@ -66,4 +66,16 @@ $(document).ready(function(){
   
     });
     });
+<<<<<<< HEAD
+=======
+  });
+  $(document).ready(function(){
+    $("#give").click(function(){
+        var inputName = $("input#inputName").val();
+        alert(inputName + " we have received your message. Thank you for reaching out to us.");
+       
+  
+    });
+  
+>>>>>>> a5a830965b551ac977881db1050f675e450c1903
   });
