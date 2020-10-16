@@ -24,7 +24,7 @@ This is a group project whereby five members of team have tried their best to wo
 * Email:skibondo920@gmail.com
 * Email:dniyodukorera120@gmail.com
 * Email:apacifique020@daviscollege.com
-#### Link to our Live page 
+#### Link to our Live pages 
 https://floride125-art.github.io/Gifts/
 #### License
  *MIT License*
