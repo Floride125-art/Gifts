@@ -66,6 +66,8 @@ $(document).ready(function(){
   
     });
     });
+<<<<<<< HEAD
+=======
   });
   $(document).ready(function(){
     $("#give").click(function(){
@@ -75,4 +77,5 @@ $(document).ready(function(){
   
     });
   
+>>>>>>> a5a830965b551ac977881db1050f675e450c1903
   });
